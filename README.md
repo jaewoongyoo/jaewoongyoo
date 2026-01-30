@@ -66,13 +66,7 @@
 
 <br>
 
-## ⚡ GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaewoongyoo&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoongyoo&layout=compact&theme=radical" height="180em" />
-  
-  <br><br>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allen1026)](https://solved.ac/allen1026)
 </div>
