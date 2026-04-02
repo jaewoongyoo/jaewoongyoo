@@ -62,5 +62,5 @@
 
 
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allen1026)](https://solved.ac/allen1026)
+
 </div>
