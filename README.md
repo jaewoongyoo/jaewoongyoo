@@ -48,13 +48,7 @@
 - **Stack**: Python, FastAPI
 - **Note**: 대용량 데이터 처리 최적화 및 이미지 렌더링 속도 개선
 
-<br>
 
-### 🔥 AI-based Battery Fire Prediction System 
-> **AI 기반 배터리 화재 징후 예측 및 차단 시스템**
-- **Role**: 시스템 아키텍처 설계, 데이터 파이프라인 구축, 시계열 예측 알고리즘 개발
-- **Stack**: ML.NET, gRPC, Database
-- **Note**: 실시간 데이터 수집 및 이상 징후 탐지 모델 구현
 
 <br>
 
