@@ -48,8 +48,6 @@
 - **Stack**: Python, FastAPI
 - **Note**: 대용량 데이터 처리 최적화 및 이미지 렌더링 속도 개선
 
-
-
 <br>
 
 ### 🧠 Psycho-analysis System
@@ -63,10 +61,5 @@
 ### 📊 Universal Equipment Dashboard
 > **범용 장비 상태 모니터링 및 관리를 위한 대시보드 시스템**
 - **Role**: 다양한 산업 장비 통신 프로토콜 데이터 처리 및 통신 파이프라인 개발
-- **Stack**: Spring JS, Python, MQTT , React
-- **Note**: 여러 통신 프로토콜을 갖고있는 산업 장비의 데이터를 포멧화 하고 사용자 편의성 커스터마이징이 가능한 온프레미스 기반 대시보드 SW 
-
-
-
-
-</div>
+- **Stack**: Spring Boot, Python, MQTT, React
+- **Note**: 여러 통신 프로토콜을 갖고 있는 산업 장비의 데이터를 포맷화하고, 사용자 편의에 맞게 커스터마이징 가능한 온프레미스 기반 대시보드 SW
